@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <b> PROJECTS LOADING <b>
-- [Hello world](https://github.com/TheNjioboy/Project1/tree/main)
+- [Hello world](https://github.com/TheNjioboy/Project1)
 
 <h2> Certifications </h2>
 <b> Certifications loading <b>
